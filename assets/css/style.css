@@ -1,0 +1,16 @@
+/* header area style */
+.header {
+    border-bottom: 1px solid #ececec;
+}
+.avatar-icon img {
+    max-width: 25px;
+}
+/* main content area style */
+.page-content {
+    margin: 7px 0;
+}
+/* footer style */
+.footer p {
+    padding: 0;
+    margin: 0;
+}
