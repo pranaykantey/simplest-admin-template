@@ -6,8 +6,18 @@
     max-width: 25px;
 }
 /* main content area style */
+/* main left sidebar */
+.main-sidebar-menu > li {
+    margin: 3px 0;
+}
+/* end main sidear left */
 .page-content {
     margin: 7px 0;
+}
+
+.has-submenu {
+    border-left: 1px solid gray;
+    background-color: #363636;
 }
 /* footer style */
 .footer p {
